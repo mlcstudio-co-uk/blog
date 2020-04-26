@@ -1,0 +1,6 @@
+url: mlcstudio.github.io
+name: MLCstudio
+description: 'Music Light &amp; Colour . . . .  Architecture and Art'
+baseurl: /blog
+ignore:
+  .git
